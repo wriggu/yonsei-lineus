@@ -1,1 +1,1 @@
-# yonsei-pages
+Yonsei University webpage for LINEUS
